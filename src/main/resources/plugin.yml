@@ -1,0 +1,4 @@
+name: BungeeTools
+main : com.notoriousdev.bungeetools.BungeeTools
+version: 0.1
+author: NotoriousDev
